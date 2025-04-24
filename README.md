@@ -29,6 +29,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Minhtamkim&show_icons=true&theme=radical&hide_border=true&border_radius=12&title_color=ffa500&icon_color=ff8c00&text_color=ffffff" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minhtamkim&layout=compact&hide_border=true&title_color=ffa500&text_color=ffffff&bg_color=20232a" width="400" />
+</p> 
+
+<!-- 🌟 Add animation -->
+<h2 align="center">✨ Let's make this dynamic ✨</h2>
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="Coding animation" /><br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFA500&center=true&vCenter=true&width=435&lines=Welcome+to+Minhtamkim's+Profile!;Web+Developer+%7C+Tech+Enthusiast;Always+learning+new+things+%F0%9F%92%BB" alt="Typing SVG animation" />
 </p>
 
 ---
