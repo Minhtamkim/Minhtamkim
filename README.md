@@ -18,7 +18,7 @@
 <!-- 🧰 Languages & Tools -->
 <h2 align="center">⚒️ Tech Stack & Tools ⚒️</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,angular,nodejs,express,firebase,mongodb,redux,styledcomponents" /><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,firebase,mongodb,redux" /><br/>
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,postman" />
 </p>
 
