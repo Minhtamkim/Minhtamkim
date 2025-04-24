@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  <img src="./Profile.gif" alt="giphy" />
+  <img src="./Profile.gif" alt="giphy" width="300" />
 </p>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
